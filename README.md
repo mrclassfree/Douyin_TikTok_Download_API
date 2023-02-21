@@ -390,4 +390,11 @@ Web main interface:
 > GitHub: [@Evil0ctal](https://github.com/Evil0ctal)
 > Contact: Evil0ctal1985@gmail.com
 
+2023.2.21
+Welcome to the Douyin_TikTok_Download_API wiki!
+抖音视频信息解析地址： https://www.iesdouyin.com/aweme/v1/web/aweme/detail/?aweme_id=7061494700397677835
+aweme_id 是视频真实ID
+
+H5分享转发视频的地址是 https://api5-normal-dsa.amemv.com/aweme/v1/play/?video_id=v0300fg10000c7vnfprc77ufcvcsioh0&line=1
+video_id 是上一个接口返回数据中的 aweme_detail.video.play_addr.uri
 
